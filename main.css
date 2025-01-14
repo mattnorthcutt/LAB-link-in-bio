@@ -1,3 +1,24 @@
 body{
   background-color: blue;
+  text-align: center;
+}
+
+.stuff {
+  position: center;
+}
+
+#b1 {
+  background-color: black;
+}
+#b2 {
+  background-color: black;
+}
+#b3 {
+  background-color: black;
+}
+#b4 {
+  background-color: black;
+}
+#b5 {
+  background-color: black;
 }
