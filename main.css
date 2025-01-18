@@ -1,24 +1,45 @@
-body{
-  background-color: blue;
+body {
+  background-color: rgb(173, 173, 173);
   text-align: center;
 }
 
 .stuff {
   position: center;
 }
+.link-image {
+  display: flex;
+  align-items: center;
+  width: 250px;
+  border-radius: 500px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
 
 #b1 {
   background-color: black;
+  margin: 10px;
 }
 #b2 {
   background-color: black;
+  margin: 10px;
 }
 #b3 {
   background-color: black;
+  margin: 10px;
 }
 #b4 {
   background-color: black;
+  margin: 10px;
 }
 #b5 {
   background-color: black;
+  margin: 10px;
 }
