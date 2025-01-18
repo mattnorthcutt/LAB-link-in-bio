@@ -9,12 +9,13 @@ body {
 .link-image {
   display: flex;
   align-items: center;
-  width: 250px;
-  border-radius: 500px;
+  
 }
 .container {
   display: flex;
   justify-content: center;
+  width: 250px;
+  height: 250px;
 }
 
 .container1 {
